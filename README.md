@@ -16,4 +16,4 @@ Dette arkivet inneholder data og metodikk for masteroppgaven min. Excel-filer me
 
 ## Spørreundersøkelse
 
-[Klikk her for å delta i spørreundersøkelsen]([https://forms.gle/xxxxxxxx](https://docs.google.com/forms/d/e/1FAIpQLScy-jT2HrvYbJrJFQsEv_68hOlu8FVyu_dWWIxODgPR2cN5ug/viewform?usp=header))
+[Klikk her for å delta i spørreundersøkelsen](https://forms.gle/X7cNbTHGsTQ1CU4eA)
