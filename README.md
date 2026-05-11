@@ -11,6 +11,6 @@ Dette arkivet inneholder data og metodikk for masteroppgaven min. Excel-filer me
 ## Slik bruker du vedleggene
 
 1. **Gjenskaping:** Se i `/Prompter` for nøyaktig tekst sendt til modellene i Origami og RamGPT. 
-2. **Dataanalyse:** Excel-filen for Delstudie 1 Resultater fra Origami, og ablasjonstesten og faglig evaluering fra RamGPT for delstudie 2.
+2. **Dataanalyse:** `/data` Excel-filen for Delstudie 1 Resultater fra Origami, og ablasjonstesten og faglig evaluering fra RamGPT for delstudie 2.
 3. **Kontekst:** Se `/Dokumentasjon` for anonymiserte inndata - testcaser for delstudie 1. 
 
