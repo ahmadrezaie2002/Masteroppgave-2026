@@ -14,3 +14,6 @@ Dette arkivet inneholder data og metodikk for masteroppgaven min. Excel-filer me
 2. **Dataanalyse:** `/data` Excel-fil for Delstudie 1 Resultater fra Origami, og ablasjonstesten og faglig evaluering fra RamGPT for delstudie 2.
 3. **Kontekst:** Se `/Dokumentasjon` for anonymiserte inndata - testcaser for delstudie 1. 
 
+## Spørreundersøkelse
+
+[Klikk her for å delta i spørreundersøkelsen]([https://forms.gle/xxxxxxxx](https://docs.google.com/forms/d/e/1FAIpQLScy-jT2HrvYbJrJFQsEv_68hOlu8FVyu_dWWIxODgPR2cN5ug/viewform?usp=header))
