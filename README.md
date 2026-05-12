@@ -5,14 +5,14 @@ Dette arkivet inneholder data og metodikk for masteroppgaven min. Excel-filer me
 ### Mappestruktur
 * **/prompts**: 16 prompter fordelt på Delstudie 1 & 2 (Zero-shot og Few-shot). (14 inviduelle prompts for Delstudie 1) og (2 endelig prompts for Delstudie 2)
 * **/data**: 5 Excel-filer (Resultater, Ablasjonstest, Ekspertevaluering) + Rådgiveroversikt.
-* **/dokumentasjon**: Prosjektinfo og kontekst for delstudie 1.
+* **/dokumentasjon**: Prosjektinfo og kontekst for delstudie 1 og Resultater fra RamGPT for begge modellene Delstudie 2.
 
 
 ## Slik bruker du vedleggene
 
 1. **Gjenskaping:** Se i `/Prompter` for nøyaktig tekst sendt til modellene i Origami og RamGPT. 
 2. **Dataanalyse:** `/data` Excel-fil for Delstudie 1 Resultater fra Origami, og ablasjonstesten og faglig evaluering fra RamGPT for delstudie 2.
-3. **Kontekst:** Se `/Dokumentasjon` for anonymiserte inndata - testcaser for delstudie 1. 
+3. **Kontekst:** Se `/Dokumentasjon` for anonymiserte inndata - testcaser for delstudie 1. Delstudie 2 inneholder to tekster der RamGPT har generert, med og uten eksempel tilgang. 
 
 ## Spørreundersøkelse
 
