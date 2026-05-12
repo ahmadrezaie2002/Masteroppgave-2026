@@ -1,0 +1,15 @@
+# Final model 2 - FS
+
+## Brannscenario 1: Brann i bøttekott under interntrapp
+
+### Analysebyggverk
+
+Bøttekottet ligger i den åpne branncellen som strekker seg mellom [sensitiv informasjon]. Branncellen har et samlet areal på om lag 860 m² og omfatter både behandlingsrom, resepsjonsarealer og interntrapp som forbinder etasjene. Virksomheten er plassert i risikoklasse 2 og bygningen tilhører brannklasse 3. Det aktuelle fraviket består i at branncellen, til tross for å være åpen over to plan og større enn 800 m², ikke er sprinklet. Tilgjengeligheten for rømning ivaretas av to trykksatte trapperom utført som TR 2 med egne mellomliggende rom, supplert av interntrappen som kun skal brukes i normal drift. Brannalarmanlegg kategori 2 med direkte varsling til brannvesenet er installert, fluktveiene er under 20 meter og den frie bredden i utganger overstiger klart kravet om én centimeter per person. Det dimensjonerende personantallet er oppgitt til 56 personer, men den reelle belastningen er opplyst å være om lag 15 personer, noe som ytterligere reduserer nødvendig rømningstid.
+
+### Referansebyggverk
+
+Referansebyggverket er en tenkt [sensitiv informasjon] i et åtteetasjes bygg, med åpen branncelle på samlet 800 m². Bygningen har samme bruks- og risikoklasse som analysebyggverket, men følger preaksepterte ytelser fullt ut. Den åpne branncellen er derfor beskyttet av et automatisk sprinkleranlegg prosjektert etter NS-EN 12845. Brannalarmanlegg kategori 2 er tilknyttet nødmeldesentral, rømningsveiene består av ett TR 1-trapperom i 8. etasje og to TR 1-trapperom i 7. etasje, og fluktveilengdene består av opptil 50 meter. Fri bredde i trapperommene er dimensjonert til cirka 3,2 centimeter per person. Bygningsdelene mot trapperommene er EI 30-CS.
+
+### Sammenligning av analysebyggverk og referansebyggverk
+
+I bøttekottet under interntrappen kan en raskt utviklende brann føre til betydelig røykgassproduksjon som tidlig påvirker begge plan i analysebyggverket. Den trykksatte rømningsstrategien med to TR 2-trapperom, korte fluktveier og vesentlig overdimensjonert rømningsbredde gir gode marginer for evakuering før kritiske forhold oppstår. Direktevarsling til brannvesenet bidrar til kort innsatstid, og bøttekottets begrensede brannenergi innebærer at en etablerende brann får relativt lav total effekt. I referansebyggverket vil sprinkleranlegget gi rask kontroll av brannen, men lengre fluktveier og smalere trapper gir økt nødvendig rømningstid og større potensial for lokal oppstuving. Begge byggverk gir tilstrekkelig verdisikkerhet gjennom enten automatisk slokkeanlegg (referanse) eller betydelig lavere brannbelastning og rask innsats (analyse). For rednings- og slokkemannskap gir analysebyggverket to uavhengige, trykksatte trapperom og bedre adskilte mellomrom, mens referansebygget er avhengig av sprinklerfunksjon og ett hovedtrapperom i den øverste etasjen. Samlet vurdert oppnår analysebyggverket minst samme, og for rømningstid og innsatsforhold et høyere, sikkerhetsnivå enn referansebyggverket.
